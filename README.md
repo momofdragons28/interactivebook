@@ -69,7 +69,7 @@ GameBook/
 
 ### 🔗 Демо
 
-Вы можете посмотреть демо-проект, перейдя по ссылке: [[https://example.com/demo](https://momofdragons28.github.io/interactivebook/)](DEMO)
+Вы можете посмотреть демо-проект, перейдя по ссылке: [https://momofdragons28.github.io/interactivebook/](https://momofdragons28.github.io/interactivebook/)
 
 ---
 
